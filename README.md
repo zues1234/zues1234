@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**zues1234/zues1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Welcome to my Codehub
-
 I'm Abhishek Singh, a Information science & engineering Graduate. 
 2020 has been an awful year, But if it was not for this year I wouldn't have seen much changes in my life,
 
