@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 I'm Abhishek Singh, a Information science & engineering Graduate. 
-2020 has been an awful year, But if it was not for this year I wouldn't have seen much changes in my life,
 
 2020 made me a Data Scientist I'm today. I've come to a point where DS means Data Science for me and not Data Structure.
 I've an indepth knowledge of Data Science(stats, ML, DL). I know all the in's & out's of most of the algorithms.
