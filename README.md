@@ -15,7 +15,7 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 
 **Language:** Python, SQL, Java.
 
-**framework:** Tensorflow, Flask .
+**framework:** Pytorch, Flask .
 
 **Libraries:** PyTorch, Scikit-Learn, pandas, Numpy, Scipy, Matplotlib & seaborn, Albumentation etc .
 
