@@ -24,4 +24,4 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 
 ### Contact Me 📱
 
-[<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/918971975058)[<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/abhishek-singh-56073556/)
+[<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>][<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/abhishek-singh-56073556/)
